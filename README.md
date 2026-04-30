@@ -113,13 +113,3 @@ Supported formats: WAV, FLAC, MP3
 - Requires 16kHz audio input  
 - Batch processing recommended for large datasets  
 
-## Citation
-
-If you use this code in your research, please cite:
-
-@software{asr_challenge_2024,  
-  title = {Robust Automatic Speech Recognition for Distorted Audio},  
-  author = {Your Name},  
-  year = {2024},  
-  url = {https://github.com/yourusername/asr-challenge}  
-}
